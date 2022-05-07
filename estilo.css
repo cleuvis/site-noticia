@@ -1,0 +1,37 @@
+.body{
+    border-color: #ec00ec;
+}
+.principa{
+    width: 960px;
+    margin: 0 auto;
+}
+p{
+    text-align: justify;
+}
+header{
+    background-color: aqua;
+    height: 80px;
+    padding: 0;
+    
+}
+nav ul li a :focus{
+    text-decoration: none;
+    color: #ec00ec;
+}
+nav ul li a.ativo{
+    text-decoration: none;
+    color: #ec00ec;
+}
+aside figure figcaption{
+    float: left;
+    width: 600px;
+}
+.artigo{
+    border-bottom: 3px solid coral;
+    padding-bottom: 15 px;
+}
+.artigo{
+    border-bottom: 3px;
+    padding-bottom: 15px;
+}
+
